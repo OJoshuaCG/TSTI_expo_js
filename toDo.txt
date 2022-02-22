@@ -1,0 +1,7 @@
+• Enlazar un archivo javascript en un html
+
+• Funciones principales usadas en una pagina web
+
+• Como conectar una BDD con javascript
+
+
